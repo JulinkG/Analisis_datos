@@ -20,15 +20,12 @@ Por último, se nos pide una demo en un rango de tiempo de no más de 10 min don
 
 Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide **establecer _al menos_ 1 KPI** producto de su análisis y que el mismo se pueda **visualizar** en un dashboard.
 
-#### Conclusiones y links de descarga
+#### Links adicionales
 
 * Descarga las bases de datos aquí ---> https://drive.google.com/drive/folders/1TS76ok6giW7D_l5vc-zu5-cBU_dH3P5H
 
 * Revisa la demo aquí ---> 
 
-* Revisa el paper de conclusiones aquí --->
-
-* Revisa los Dashboards aquí --->
 
 
 
